@@ -90,6 +90,16 @@ Credentials, API keys, webhook secrets, and sensitive business information are n
 
 This repository is intended as a **portfolio demonstration of the automation architecture and workflow**.
 
+![GoHighLevel Workflow](01-ghl-workflow.png.png)
+
+![GoHighLevel Execution](02-ghl-execution.png.png)
+
+![n8n Workflow](03-n8n-workflow.png.png)
+
+![n8n Execution](04-n8n-execution.png.png)
+
+![Final Gmail Result](05-gmail-result.png.png)
+
 ## 👩‍💻 Built By
 
 **Kazumi Nagata**
